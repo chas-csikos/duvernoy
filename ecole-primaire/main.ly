@@ -17,3 +17,4 @@
 \include "3.ily"
 \include "4.ily"
 \include "5.ily"
+\include "6.ily"
